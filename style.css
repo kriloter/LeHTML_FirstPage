@@ -3,3 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#container {
+    width: 1200px;
+    margin: 0px auto;
+}
+
+header {
+    background: rgba(0,0,0,0.8);
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+#logo img {
+    display: block;
+    width: 300px;
+    margin: 0px auto;
+}
